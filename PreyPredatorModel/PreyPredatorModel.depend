@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589551129 source:c:\users\owner\desktop\preypredatormodel\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

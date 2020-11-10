@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587744074 source:c:\users\owner\desktop\jacobi_iteration\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<stdlib.h>
+
